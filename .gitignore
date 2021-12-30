@@ -1,0 +1,8 @@
+# react specific
+/node_modules
+
+# webstorm specific
+/.idea
+
+# misc
+.DS_Store
