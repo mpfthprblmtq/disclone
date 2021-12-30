@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/projects/disclone/static/css/main.073c9b0a.css",
+    "main.js": "/projects/disclone/static/js/main.56105a89.js",
+    "index.html": "/projects/disclone/index.html",
+    "main.073c9b0a.css.map": "/projects/disclone/static/css/main.073c9b0a.css.map",
+    "main.56105a89.js.map": "/projects/disclone/static/js/main.56105a89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.56105a89.js"
+  ]
+}
