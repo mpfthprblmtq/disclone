@@ -1,5 +1,6 @@
 # react specific
 /node_modules
+/build
 
 # webstorm specific
 /.idea
